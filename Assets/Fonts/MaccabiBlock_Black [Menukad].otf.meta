@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1c934caec94f84619a884de8fb0cc323
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MaccabiBlock
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: eb361ec4686f34ec0b1dcf7e733b2bf6, type: 3}
+  - {fileID: 12800000, guid: e0526c6029c304c0eac8dabf0d369c5b, type: 3}
+  - {fileID: 12800000, guid: a11aee9873cbb4cf99fd21d78edf0b7c, type: 3}
+  - {fileID: 12800000, guid: bbd685f91827c4954b4a97eb4afcf97e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
